@@ -47,7 +47,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%23131E36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-%231E90FF.svg?style=for-the-badge&logo=audacity&logoColor=white)
-
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
