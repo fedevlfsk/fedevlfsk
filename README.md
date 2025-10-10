@@ -18,7 +18,7 @@
 - Actualmente estudiando desarrollo de software en instituto [IDRA](https://institutoidra.edu.ar/)
 - Estoy abierto a colaborar en proyectos creativos o profesionales donde pueda
   seguir aprendiendo y aportar con mi trabajo.
-  - Gran interés por el software libre. 
+- Gran interés por el software libre. 
 
 <br><br><br>
 
