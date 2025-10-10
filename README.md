@@ -9,7 +9,7 @@
 
 <h1> Sobre mi </h1>
 
-<picture> <img align="right" src="https://github.com/fedevlfsk/fedevlfsk/blob/main/lain%20github.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/fedevlfsk/fedevlfsk/blob/main/lain%20github.gif" width = 280px></picture>
 
 <br>
 
