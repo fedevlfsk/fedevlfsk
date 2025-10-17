@@ -13,7 +13,7 @@
 
 <br>
 
-- Desarrollador de software con una mente analítica y curiosa.
+- Desarrollador de software con una mente creativa y curiosa.
 - Editor de videos e imagenes autodidacta.
 - Actualmente estudiando desarrollo de software en instituto [IDRA](https://institutoidra.edu.ar/)
 - Estoy abierto a colaborar en proyectos creativos o profesionales donde pueda
