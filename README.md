@@ -44,7 +44,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama%20-%231572B6.svg?style=for-the-badge&logo=Ollama3&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama%20-%23FFFFFF.svg?style=for-the-badge&logo=Ollama3&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%23131E36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-%231E90FF.svg?style=for-the-badge&logo=audacity&logoColor=white)
 <br><br>
