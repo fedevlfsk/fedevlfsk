@@ -41,11 +41,10 @@
 
 
 - **Software y herramientas**: <br><br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama%20-%231572B6.svg?style=for-the-badge&logo=Ollama3&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%23131E36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-%231E90FF.svg?style=for-the-badge&logo=audacity&logoColor=white)
 <br><br>
